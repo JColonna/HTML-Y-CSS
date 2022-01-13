@@ -1,0 +1,29 @@
+h1 {
+    color:blue;
+}
+
+body {
+    font-family: 'Neonderthaw', cursive;
+    font-weight: 700;
+    font-size: 20px;
+}
+.fondoConImagen {
+    background-image:url(/image/descarga.jpg);
+    height: 170px;
+    background-repeat:initial;
+    width: 100%;
+    max-width: 80%;
+    margin-left: 5px;
+    padding-top: 10px;
+
+
+}
+
+.fondoConColor {
+    background-color: #342134;
+    height: 200px;
+    width: 1000px;
+    max-width: 80%;
+    padding: 3px 5px 3px 5px;
+    margin-top: 10px;
+}
